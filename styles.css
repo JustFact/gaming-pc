@@ -1,0 +1,11 @@
+body{
+    font-family: 'Roboto','Courier New', Courier, monospace;
+    margin: 0;
+}
+
+.header {
+    background-color: #1F2937;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
