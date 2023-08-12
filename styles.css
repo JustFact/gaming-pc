@@ -128,3 +128,27 @@ body{
     margin-top: 8px;
     color: #707070;
 }
+
+.testimonial{
+    background-color: #E5E7EB;
+    color: #1F2937;
+    padding-top: 110px;
+    padding-bottom: 110px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.quote{
+    width: 750px;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: lighter; 
+}
+
+.quote-author{
+    width: 750px;
+    text-align: right;
+    font-weight: 700;
+    font-size: 17px;
+}
