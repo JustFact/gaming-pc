@@ -176,3 +176,12 @@ body{
 .signup-section .button-signup {
     border: 3px #f9faf8 solid;
 }
+
+.footer{
+    background-color: #1F2937;
+    color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
