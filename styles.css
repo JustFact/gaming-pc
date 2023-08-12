@@ -12,6 +12,11 @@ body{
     justify-content: space-between;
 }
 
+.side-paddings{
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
 .Logo{
     color: #f9faf8;
     font-size: 24px;
